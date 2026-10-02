@@ -1,0 +1,15 @@
+# локальное окружение (setup.sh)
+.tools/
+local.properties
+
+# сборка
+.gradle/
+.kotlin/
+build/
+*.apk
+*.aab
+
+# IDE
+.idea/
+*.iml
+.DS_Store

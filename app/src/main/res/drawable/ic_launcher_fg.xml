@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- ценник -->
+    <path android:fillColor="#66C0F4"
+        android:pathData="M34,38 L52,38 L76,62 L60,78 L36,54 Z" />
+    <path android:fillColor="#171D25"
+        android:pathData="M44,46 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+</vector>
